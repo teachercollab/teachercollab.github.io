@@ -1,0 +1,21 @@
+{
+  "export_set": "TeacherCollab research video cards",
+  "canvas": {
+    "width": 1920,
+    "height": 1080,
+    "format": "PNG",
+    "aspect_ratio": "16:9"
+  },
+  "files": [
+    {
+      "role": "opening",
+      "filename": "teachercollab-video-title-card.png",
+      "sha256": "23fba4b0dc08729bb345df5afc756981daf2db0f28c2301737e63c2164cc5df6"
+    },
+    {
+      "role": "closing",
+      "filename": "teachercollab-video-end-card.png",
+      "sha256": "fe8fdd47f9a9bf7e2846e530f0c57526ac07cb0b515bc73c54ccb879e1f680c9"
+    }
+  ]
+}
